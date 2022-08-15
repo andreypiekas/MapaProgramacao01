@@ -1,5 +1,4 @@
 package br.piekas.prog1.unicesumar.core.classes;
-
 import br.piekas.prog1.unicesumar.core.classes.*;
 import java.util.Random;
 
